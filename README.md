@@ -4,7 +4,7 @@ Link to challenge website: https://www.kaggle.com/c/human-protein-atlas-image-cl
 
 To clone this repo, please execute:
 ```
-git clone https://github.com/tsaishien-chen/Kaggle_HumanProtein_Classification.git
+git clone https://github.com/tsaishien-chen/Human_Protein_Classification.git
 ```
 
 ## Requirements
