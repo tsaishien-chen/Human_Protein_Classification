@@ -1,4 +1,5 @@
-# Worldwide Kaggle Competition: Human Protein Atlas Image Classification
+# Worldwide Kaggle Competition:
+# Human Protein Atlas Image Classification
 
 Link to challenge website: https://www.kaggle.com/c/human-protein-atlas-image-classification/overview
 
