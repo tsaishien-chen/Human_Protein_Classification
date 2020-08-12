@@ -1,0 +1,9 @@
+torch==0.4.1
+scikit-learn==0.20.2
+tqdm==4.28.1
+cv2==3.4.2
+imgaug==0.2.7
+PIL==5.2.0
+torchvision==0.2.1
+numpy==1.14.5
+pandas==0.23.4
