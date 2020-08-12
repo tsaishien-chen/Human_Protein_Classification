@@ -11,7 +11,7 @@ git clone https://github.com/tsaishien-chen/Human_Protein_Classification.git
 * Python 3.5 or newer:  
   Run `pip3 install -r requirements.txt` to install all dependence packages.
 
-## Execution
+## Reproduction
 
 1. Download the dataset (save all training images into `src/total_train/` and all testing images into `src/test/`).
 
