@@ -17,7 +17,7 @@ git clone https://github.com/tsaishien-chen/Human_Protein_Classification.git
 
 2. Execute:
 ```
-bash test.sh [directory of sample_submission.csv]
+bash src/Pytorch/test.sh [directory of sample_submission.csv]
 ```
 
 3. The final result will show up here: `src/Pytorch/submit/result.csv`.
